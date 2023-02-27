@@ -1,0 +1,17 @@
+#!/bin/bash
+
+function celar() {
+ clear
+}
+function cleaer() {
+ clear
+}
+function celar() {
+ clear
+}
+function cear() {
+ clear
+}
+function clea() {
+ clear
+}
